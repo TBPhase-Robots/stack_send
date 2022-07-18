@@ -82,7 +82,7 @@ void setup() {
 
   // M5.lcd.println("\na");
 
-  set_microros_wifi_transports("TP-Link_102C", "35811152", "192.168.0.100", 8888);
+  set_microros_wifi_transports("TP-Link_102C", "35811152", "192.168.0.230", 8888);
 
   //  M5.lcd.println("b");
 
